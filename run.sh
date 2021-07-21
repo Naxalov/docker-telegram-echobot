@@ -1,0 +1,1 @@
+docker run -t -e TOKEN=${TOKEN} python-docker
